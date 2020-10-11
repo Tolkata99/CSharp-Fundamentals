@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\06.EvenOrOddString\bin\Debug\netcoreapp3.1\06.EvenOrOddString.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\06.EvenOrOddString\bin\Debug\netcoreapp3.1\06.EvenOrOddString.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\06.EvenOrOddString\bin\Debug\netcoreapp3.1\06.EvenOrOddString.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\06.EvenOrOddString\bin\Debug\netcoreapp3.1\06.EvenOrOddString.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\06.EvenOrOddString\bin\Debug\netcoreapp3.1\06.EvenOrOddString.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\06.EvenOrOddString\bin\Debug\netcoreapp3.1\06.EvenOrOddString.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\06.EvenOrOddString\obj\Debug\netcoreapp3.1\06.EvenOrOddString.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\06.EvenOrOddString\obj\Debug\netcoreapp3.1\06.EvenOrOddString.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\06.EvenOrOddString\obj\Debug\netcoreapp3.1\06.EvenOrOddString.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\06.EvenOrOddString\obj\Debug\netcoreapp3.1\06.EvenOrOddString.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\06.EvenOrOddString\obj\Debug\netcoreapp3.1\06.EvenOrOddString.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\06.EvenOrOddString\obj\Debug\netcoreapp3.1\06.EvenOrOddString.genruntimeconfig.cache

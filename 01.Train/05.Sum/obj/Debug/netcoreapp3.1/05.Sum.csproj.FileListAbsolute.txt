@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\05.Sum\bin\Debug\netcoreapp3.1\05.Sum.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\05.Sum\bin\Debug\netcoreapp3.1\05.Sum.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\05.Sum\bin\Debug\netcoreapp3.1\05.Sum.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\05.Sum\bin\Debug\netcoreapp3.1\05.Sum.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\05.Sum\bin\Debug\netcoreapp3.1\05.Sum.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\05.Sum\bin\Debug\netcoreapp3.1\05.Sum.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\05.Sum\obj\Debug\netcoreapp3.1\05.Sum.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\05.Sum\obj\Debug\netcoreapp3.1\05.Sum.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\05.Sum\obj\Debug\netcoreapp3.1\05.Sum.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\05.Sum\obj\Debug\netcoreapp3.1\05.Sum.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\05.Sum\obj\Debug\netcoreapp3.1\05.Sum.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\05.Sum\obj\Debug\netcoreapp3.1\05.Sum.genruntimeconfig.cache

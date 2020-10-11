@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\07.Factorial\bin\Debug\netcoreapp3.1\07.Factorial.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\07.Factorial\bin\Debug\netcoreapp3.1\07.Factorial.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\07.Factorial\bin\Debug\netcoreapp3.1\07.Factorial.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\07.Factorial\bin\Debug\netcoreapp3.1\07.Factorial.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\07.Factorial\bin\Debug\netcoreapp3.1\07.Factorial.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\07.Factorial\bin\Debug\netcoreapp3.1\07.Factorial.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\07.Factorial\obj\Debug\netcoreapp3.1\07.Factorial.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\07.Factorial\obj\Debug\netcoreapp3.1\07.Factorial.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\07.Factorial\obj\Debug\netcoreapp3.1\07.Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\07.Factorial\obj\Debug\netcoreapp3.1\07.Factorial.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\07.Factorial\obj\Debug\netcoreapp3.1\07.Factorial.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.Train\07.Factorial\obj\Debug\netcoreapp3.1\07.Factorial.genruntimeconfig.cache
