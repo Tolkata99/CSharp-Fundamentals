@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\PalindromeIntegers\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.genruntimeconfig.cache

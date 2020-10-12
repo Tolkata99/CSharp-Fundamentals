@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\bin\Debug\netcoreapp3.1\03.CharactersinRange.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\bin\Debug\netcoreapp3.1\03.CharactersinRange.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\bin\Debug\netcoreapp3.1\03.CharactersinRange.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\bin\Debug\netcoreapp3.1\03.CharactersinRange.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\bin\Debug\netcoreapp3.1\03.CharactersinRange.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\bin\Debug\netcoreapp3.1\03.CharactersinRange.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\obj\Debug\netcoreapp3.1\03.CharactersinRange.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\obj\Debug\netcoreapp3.1\03.CharactersinRange.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\obj\Debug\netcoreapp3.1\03.CharactersinRange.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\obj\Debug\netcoreapp3.1\03.CharactersinRange.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\obj\Debug\netcoreapp3.1\03.CharactersinRange.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\obj\Debug\netcoreapp3.1\03.CharactersinRange.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\03.CharactersinRange\obj\Debug\netcoreapp3.1\03.CharactersinRange.genruntimeconfig.cache
