@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\bin\Debug\netcoreapp3.1\05.NegativeNumbers.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\bin\Debug\netcoreapp3.1\05.NegativeNumbers.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\bin\Debug\netcoreapp3.1\05.NegativeNumbers.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\bin\Debug\netcoreapp3.1\05.NegativeNumbers.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\bin\Debug\netcoreapp3.1\05.NegativeNumbers.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\bin\Debug\netcoreapp3.1\05.NegativeNumbers.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\obj\Debug\netcoreapp3.1\05.NegativeNumbers.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\obj\Debug\netcoreapp3.1\05.NegativeNumbers.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\obj\Debug\netcoreapp3.1\05.NegativeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\obj\Debug\netcoreapp3.1\05.NegativeNumbers.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\obj\Debug\netcoreapp3.1\05.NegativeNumbers.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\obj\Debug\netcoreapp3.1\05.NegativeNumbers.genruntimeconfig.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\05.NegativeNumbers\obj\Debug\netcoreapp3.1\05.NegativeNumbers.csprojAssemblyReference.cache

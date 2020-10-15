@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\bin\Debug\netcoreapp3.1\04.SortStrings.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\bin\Debug\netcoreapp3.1\04.SortStrings.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\bin\Debug\netcoreapp3.1\04.SortStrings.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\bin\Debug\netcoreapp3.1\04.SortStrings.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\bin\Debug\netcoreapp3.1\04.SortStrings.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\bin\Debug\netcoreapp3.1\04.SortStrings.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\obj\Debug\netcoreapp3.1\04.SortStrings.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\obj\Debug\netcoreapp3.1\04.SortStrings.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\obj\Debug\netcoreapp3.1\04.SortStrings.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\obj\Debug\netcoreapp3.1\04.SortStrings.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\obj\Debug\netcoreapp3.1\04.SortStrings.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\obj\Debug\netcoreapp3.1\04.SortStrings.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\04.SortStrings\obj\Debug\netcoreapp3.1\04.SortStrings.genruntimeconfig.cache
