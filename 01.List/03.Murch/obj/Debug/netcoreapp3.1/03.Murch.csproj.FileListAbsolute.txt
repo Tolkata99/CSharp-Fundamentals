@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\bin\Debug\netcoreapp3.1\03.Murch.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\bin\Debug\netcoreapp3.1\03.Murch.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\bin\Debug\netcoreapp3.1\03.Murch.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\bin\Debug\netcoreapp3.1\03.Murch.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\bin\Debug\netcoreapp3.1\03.Murch.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\bin\Debug\netcoreapp3.1\03.Murch.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\obj\Debug\netcoreapp3.1\03.Murch.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\obj\Debug\netcoreapp3.1\03.Murch.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\obj\Debug\netcoreapp3.1\03.Murch.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\obj\Debug\netcoreapp3.1\03.Murch.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\obj\Debug\netcoreapp3.1\03.Murch.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\obj\Debug\netcoreapp3.1\03.Murch.genruntimeconfig.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03.Murch\obj\Debug\netcoreapp3.1\03.Murch.csprojAssemblyReference.cache

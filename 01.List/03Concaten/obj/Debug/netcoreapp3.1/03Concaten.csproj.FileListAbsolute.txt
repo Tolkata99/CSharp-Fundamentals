@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\bin\Debug\netcoreapp3.1\03Concaten.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\bin\Debug\netcoreapp3.1\03Concaten.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\bin\Debug\netcoreapp3.1\03Concaten.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\bin\Debug\netcoreapp3.1\03Concaten.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\bin\Debug\netcoreapp3.1\03Concaten.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\bin\Debug\netcoreapp3.1\03Concaten.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\obj\Debug\netcoreapp3.1\03Concaten.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\obj\Debug\netcoreapp3.1\03Concaten.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\obj\Debug\netcoreapp3.1\03Concaten.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\obj\Debug\netcoreapp3.1\03Concaten.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\obj\Debug\netcoreapp3.1\03Concaten.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\obj\Debug\netcoreapp3.1\03Concaten.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\01.List\03Concaten\obj\Debug\netcoreapp3.1\03Concaten.genruntimeconfig.cache
