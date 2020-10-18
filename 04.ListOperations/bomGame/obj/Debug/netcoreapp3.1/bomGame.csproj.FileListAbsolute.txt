@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\bin\Debug\netcoreapp3.1\bomGame.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\bin\Debug\netcoreapp3.1\bomGame.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\bin\Debug\netcoreapp3.1\bomGame.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\bin\Debug\netcoreapp3.1\bomGame.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\bin\Debug\netcoreapp3.1\bomGame.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\bin\Debug\netcoreapp3.1\bomGame.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\obj\Debug\netcoreapp3.1\bomGame.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\obj\Debug\netcoreapp3.1\bomGame.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\obj\Debug\netcoreapp3.1\bomGame.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\obj\Debug\netcoreapp3.1\bomGame.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\obj\Debug\netcoreapp3.1\bomGame.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\obj\Debug\netcoreapp3.1\bomGame.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\04.ListOperations\bomGame\obj\Debug\netcoreapp3.1\bomGame.genruntimeconfig.cache
