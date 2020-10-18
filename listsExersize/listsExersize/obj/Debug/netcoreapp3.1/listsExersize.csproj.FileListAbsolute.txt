@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\bin\Debug\netcoreapp3.1\listsExersize.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\bin\Debug\netcoreapp3.1\listsExersize.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\bin\Debug\netcoreapp3.1\listsExersize.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\bin\Debug\netcoreapp3.1\listsExersize.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\bin\Debug\netcoreapp3.1\listsExersize.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\bin\Debug\netcoreapp3.1\listsExersize.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\obj\Debug\netcoreapp3.1\listsExersize.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\obj\Debug\netcoreapp3.1\listsExersize.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\obj\Debug\netcoreapp3.1\listsExersize.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\obj\Debug\netcoreapp3.1\listsExersize.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\obj\Debug\netcoreapp3.1\listsExersize.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\obj\Debug\netcoreapp3.1\listsExersize.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\listsExersize\listsExersize\obj\Debug\netcoreapp3.1\listsExersize.genruntimeconfig.cache
