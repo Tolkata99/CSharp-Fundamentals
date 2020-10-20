@@ -36,7 +36,7 @@ namespace _04.ListOperations
                                  //Index
                     if(IsValidIndex(index, numbers.Count))
                     {
-                        Console.WriteLine("Invalid index!");
+                        Console.WriteLine("Invalid index");
                     }
                     else
                     {
@@ -49,7 +49,7 @@ namespace _04.ListOperations
                     int index = (int.Parse(comand[1]));
                     if (IsValidIndex(index, numbers.Count))
                     {
-                        Console.WriteLine("Invalid index!");
+                        Console.WriteLine("Invalid index");
                     }
                     else
                     {
