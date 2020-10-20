@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\bin\Debug\netcoreapp3.1\cardGame.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\bin\Debug\netcoreapp3.1\cardGame.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\bin\Debug\netcoreapp3.1\cardGame.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\bin\Debug\netcoreapp3.1\cardGame.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\bin\Debug\netcoreapp3.1\cardGame.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\bin\Debug\netcoreapp3.1\cardGame.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\obj\Debug\netcoreapp3.1\cardGame.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\obj\Debug\netcoreapp3.1\cardGame.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\obj\Debug\netcoreapp3.1\cardGame.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\obj\Debug\netcoreapp3.1\cardGame.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\obj\Debug\netcoreapp3.1\cardGame.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\obj\Debug\netcoreapp3.1\cardGame.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\cardGame\obj\Debug\netcoreapp3.1\cardGame.genruntimeconfig.cache
