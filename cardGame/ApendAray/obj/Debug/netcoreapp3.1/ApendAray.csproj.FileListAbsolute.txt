@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\bin\Debug\netcoreapp3.1\ApendAray.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\bin\Debug\netcoreapp3.1\ApendAray.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\bin\Debug\netcoreapp3.1\ApendAray.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\bin\Debug\netcoreapp3.1\ApendAray.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\bin\Debug\netcoreapp3.1\ApendAray.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\bin\Debug\netcoreapp3.1\ApendAray.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\obj\Debug\netcoreapp3.1\ApendAray.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\obj\Debug\netcoreapp3.1\ApendAray.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\obj\Debug\netcoreapp3.1\ApendAray.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\obj\Debug\netcoreapp3.1\ApendAray.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\obj\Debug\netcoreapp3.1\ApendAray.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\obj\Debug\netcoreapp3.1\ApendAray.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\cardGame\ApendAray\obj\Debug\netcoreapp3.1\ApendAray.genruntimeconfig.cache
