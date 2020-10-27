@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nm1O6dg4jV581MpqCpvzEiYRBP8OVyxthvnwYTFuGKIscZD97WKSPs62xUOjfRqIIwPdGr7FZreyab0X1lLeAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer Nitro\\Documents\\GitHub\\NewFundamentalsLast\\MethodAndObject\\Students\\Students.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer Nitro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Acer Nitro\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Acer Nitro\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Acer Nitro\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

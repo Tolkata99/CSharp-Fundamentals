@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\bin\Debug\netcoreapp3.1\TeamWorkProjects.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\bin\Debug\netcoreapp3.1\TeamWorkProjects.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\bin\Debug\netcoreapp3.1\TeamWorkProjects.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\bin\Debug\netcoreapp3.1\TeamWorkProjects.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\bin\Debug\netcoreapp3.1\TeamWorkProjects.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\bin\Debug\netcoreapp3.1\TeamWorkProjects.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\obj\Debug\netcoreapp3.1\TeamWorkProjects.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\obj\Debug\netcoreapp3.1\TeamWorkProjects.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\obj\Debug\netcoreapp3.1\TeamWorkProjects.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\obj\Debug\netcoreapp3.1\TeamWorkProjects.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\obj\Debug\netcoreapp3.1\TeamWorkProjects.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\obj\Debug\netcoreapp3.1\TeamWorkProjects.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\TeamWorkProjects\obj\Debug\netcoreapp3.1\TeamWorkProjects.genruntimeconfig.cache
