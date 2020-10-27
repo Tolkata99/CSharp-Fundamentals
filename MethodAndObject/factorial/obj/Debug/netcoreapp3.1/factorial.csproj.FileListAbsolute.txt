@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\bin\Debug\netcoreapp3.1\factorial.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\bin\Debug\netcoreapp3.1\factorial.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\bin\Debug\netcoreapp3.1\factorial.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\bin\Debug\netcoreapp3.1\factorial.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\bin\Debug\netcoreapp3.1\factorial.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\bin\Debug\netcoreapp3.1\factorial.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\obj\Debug\netcoreapp3.1\factorial.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\obj\Debug\netcoreapp3.1\factorial.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\obj\Debug\netcoreapp3.1\factorial.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\obj\Debug\netcoreapp3.1\factorial.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\factorial\obj\Debug\netcoreapp3.1\factorial.genruntimeconfig.cache
