@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Adverstman\bin\Debug\netcoreapp3.1\Adverstman.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Adverstman\bin\Debug\netcoreapp3.1\Adverstman.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Adverstman\bin\Debug\netcoreapp3.1\Adverstman.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Adverstman\bin\Debug\netcoreapp3.1\Adverstman.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Adverstman\bin\Debug\netcoreapp3.1\Adverstman.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Adverstman\bin\Debug\netcoreapp3.1\Adverstman.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Adverstman\obj\Debug\netcoreapp3.1\Adverstman.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Adverstman\obj\Debug\netcoreapp3.1\Adverstman.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Adverstman\obj\Debug\netcoreapp3.1\Adverstman.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Adverstman\obj\Debug\netcoreapp3.1\Adverstman.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Adverstman\obj\Debug\netcoreapp3.1\Adverstman.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Adverstman\obj\Debug\netcoreapp3.1\Adverstman.genruntimeconfig.cache
