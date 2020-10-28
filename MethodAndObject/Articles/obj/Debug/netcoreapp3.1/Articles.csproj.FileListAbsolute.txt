@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\bin\Debug\netcoreapp3.1\Articles.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\bin\Debug\netcoreapp3.1\Articles.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\bin\Debug\netcoreapp3.1\Articles.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\bin\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\obj\Debug\netcoreapp3.1\Articles.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\obj\Debug\netcoreapp3.1\Articles.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\obj\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\MethodAndObject\Articles\obj\Debug\netcoreapp3.1\Articles.genruntimeconfig.cache
