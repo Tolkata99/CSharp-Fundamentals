@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\bin\Debug\netcoreapp3.1\exersie.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\bin\Debug\netcoreapp3.1\exersie.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\bin\Debug\netcoreapp3.1\exersie.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\bin\Debug\netcoreapp3.1\exersie.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\bin\Debug\netcoreapp3.1\exersie.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\bin\Debug\netcoreapp3.1\exersie.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\obj\Debug\netcoreapp3.1\exersie.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\obj\Debug\netcoreapp3.1\exersie.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\obj\Debug\netcoreapp3.1\exersie.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\obj\Debug\netcoreapp3.1\exersie.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\obj\Debug\netcoreapp3.1\exersie.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\obj\Debug\netcoreapp3.1\exersie.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exersie\exersie\obj\Debug\netcoreapp3.1\exersie.genruntimeconfig.cache
