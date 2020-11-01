@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exam", "exam\exam.csproj", "{10682AF9-0765-41B7-8AEA-2F4D2DBE94ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veihical Cataloge", "Veihical Cataloge\Veihical Cataloge.csproj", "{9FB0298E-B7E7-43D9-B0E8-ACDB7AB145C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exams2", "exams2\exams2.csproj", "{00D1136B-349B-4F96-897A-4213B957A315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10682AF9-0765-41B7-8AEA-2F4D2DBE94ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10682AF9-0765-41B7-8AEA-2F4D2DBE94ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10682AF9-0765-41B7-8AEA-2F4D2DBE94ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10682AF9-0765-41B7-8AEA-2F4D2DBE94ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB0298E-B7E7-43D9-B0E8-ACDB7AB145C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB0298E-B7E7-43D9-B0E8-ACDB7AB145C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB0298E-B7E7-43D9-B0E8-ACDB7AB145C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB0298E-B7E7-43D9-B0E8-ACDB7AB145C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D1136B-349B-4F96-897A-4213B957A315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D1136B-349B-4F96-897A-4213B957A315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D1136B-349B-4F96-897A-4213B957A315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D1136B-349B-4F96-897A-4213B957A315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69EC36F6-A9AF-4FB7-9926-C9B17B81A45D}
+	EndGlobalSection
+EndGlobal

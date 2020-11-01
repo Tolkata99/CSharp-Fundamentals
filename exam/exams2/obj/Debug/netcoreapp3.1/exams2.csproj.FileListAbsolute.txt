@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\bin\Debug\netcoreapp3.1\exams2.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\bin\Debug\netcoreapp3.1\exams2.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\bin\Debug\netcoreapp3.1\exams2.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\bin\Debug\netcoreapp3.1\exams2.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\bin\Debug\netcoreapp3.1\exams2.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\bin\Debug\netcoreapp3.1\exams2.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\obj\Debug\netcoreapp3.1\exams2.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\obj\Debug\netcoreapp3.1\exams2.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\obj\Debug\netcoreapp3.1\exams2.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\obj\Debug\netcoreapp3.1\exams2.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\obj\Debug\netcoreapp3.1\exams2.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\obj\Debug\netcoreapp3.1\exams2.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\exam\exams2\obj\Debug\netcoreapp3.1\exams2.genruntimeconfig.cache
