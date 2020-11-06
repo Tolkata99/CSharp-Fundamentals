@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\bin\Debug\netcoreapp3.1\NationalCourt.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\bin\Debug\netcoreapp3.1\NationalCourt.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\bin\Debug\netcoreapp3.1\NationalCourt.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\bin\Debug\netcoreapp3.1\NationalCourt.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\bin\Debug\netcoreapp3.1\NationalCourt.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\bin\Debug\netcoreapp3.1\NationalCourt.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\NationalCourt\obj\Debug\netcoreapp3.1\NationalCourt.genruntimeconfig.cache
