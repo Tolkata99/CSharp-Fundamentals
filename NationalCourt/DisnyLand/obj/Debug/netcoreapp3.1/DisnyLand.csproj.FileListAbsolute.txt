@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\DisnyLand\bin\Debug\netcoreapp3.1\DisnyLand.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\DisnyLand\bin\Debug\netcoreapp3.1\DisnyLand.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\DisnyLand\bin\Debug\netcoreapp3.1\DisnyLand.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\DisnyLand\bin\Debug\netcoreapp3.1\DisnyLand.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\DisnyLand\bin\Debug\netcoreapp3.1\DisnyLand.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\DisnyLand\bin\Debug\netcoreapp3.1\DisnyLand.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\DisnyLand\obj\Debug\netcoreapp3.1\DisnyLand.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\DisnyLand\obj\Debug\netcoreapp3.1\DisnyLand.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\DisnyLand\obj\Debug\netcoreapp3.1\DisnyLand.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\DisnyLand\obj\Debug\netcoreapp3.1\DisnyLand.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\DisnyLand\obj\Debug\netcoreapp3.1\DisnyLand.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\DisnyLand\obj\Debug\netcoreapp3.1\DisnyLand.genruntimeconfig.cache
