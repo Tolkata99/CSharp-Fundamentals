@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\bin\Debug\netcoreapp3.1\ShopingList.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\bin\Debug\netcoreapp3.1\ShopingList.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\bin\Debug\netcoreapp3.1\ShopingList.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\bin\Debug\netcoreapp3.1\ShopingList.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\bin\Debug\netcoreapp3.1\ShopingList.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\bin\Debug\netcoreapp3.1\ShopingList.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.genruntimeconfig.cache

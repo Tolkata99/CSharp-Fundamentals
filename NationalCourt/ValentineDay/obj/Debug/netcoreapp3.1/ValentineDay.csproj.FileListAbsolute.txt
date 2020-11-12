@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\bin\Debug\netcoreapp3.1\ValentineDay.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\bin\Debug\netcoreapp3.1\ValentineDay.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\bin\Debug\netcoreapp3.1\ValentineDay.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\bin\Debug\netcoreapp3.1\ValentineDay.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\bin\Debug\netcoreapp3.1\ValentineDay.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\bin\Debug\netcoreapp3.1\ValentineDay.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\obj\Debug\netcoreapp3.1\ValentineDay.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\obj\Debug\netcoreapp3.1\ValentineDay.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\obj\Debug\netcoreapp3.1\ValentineDay.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\obj\Debug\netcoreapp3.1\ValentineDay.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\obj\Debug\netcoreapp3.1\ValentineDay.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\obj\Debug\netcoreapp3.1\ValentineDay.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\NationalCourt\ValentineDay\obj\Debug\netcoreapp3.1\ValentineDay.genruntimeconfig.cache
