@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\bin\Debug\netcoreapp3.1\OneTask.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\obj\Debug\netcoreapp3.1\OneTask.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\obj\Debug\netcoreapp3.1\OneTask.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\obj\Debug\netcoreapp3.1\OneTask.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\bin\Debug\netcoreapp3.1\OneTask.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\bin\Debug\netcoreapp3.1\OneTask.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\bin\Debug\netcoreapp3.1\OneTask.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\bin\Debug\netcoreapp3.1\OneTask.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\bin\Debug\netcoreapp3.1\OneTask.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\obj\Debug\netcoreapp3.1\OneTask.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\obj\Debug\netcoreapp3.1\OneTask.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\obj\Debug\netcoreapp3.1\OneTask.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\OneTask\obj\Debug\netcoreapp3.1\OneTask.genruntimeconfig.cache
