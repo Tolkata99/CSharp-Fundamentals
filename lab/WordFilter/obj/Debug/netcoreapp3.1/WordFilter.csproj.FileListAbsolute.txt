@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordFilter\bin\Debug\netcoreapp3.1\WordFilter.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordFilter\bin\Debug\netcoreapp3.1\WordFilter.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordFilter\bin\Debug\netcoreapp3.1\WordFilter.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordFilter\bin\Debug\netcoreapp3.1\WordFilter.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordFilter\bin\Debug\netcoreapp3.1\WordFilter.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordFilter\bin\Debug\netcoreapp3.1\WordFilter.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordFilter\obj\Debug\netcoreapp3.1\WordFilter.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordFilter\obj\Debug\netcoreapp3.1\WordFilter.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordFilter\obj\Debug\netcoreapp3.1\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordFilter\obj\Debug\netcoreapp3.1\WordFilter.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordFilter\obj\Debug\netcoreapp3.1\WordFilter.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordFilter\obj\Debug\netcoreapp3.1\WordFilter.genruntimeconfig.cache
