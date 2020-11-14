@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordSynonims\bin\Debug\netcoreapp3.1\WordSynonims.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordSynonims\bin\Debug\netcoreapp3.1\WordSynonims.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordSynonims\bin\Debug\netcoreapp3.1\WordSynonims.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordSynonims\bin\Debug\netcoreapp3.1\WordSynonims.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordSynonims\bin\Debug\netcoreapp3.1\WordSynonims.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordSynonims\bin\Debug\netcoreapp3.1\WordSynonims.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordSynonims\obj\Debug\netcoreapp3.1\WordSynonims.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordSynonims\obj\Debug\netcoreapp3.1\WordSynonims.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordSynonims\obj\Debug\netcoreapp3.1\WordSynonims.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordSynonims\obj\Debug\netcoreapp3.1\WordSynonims.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordSynonims\obj\Debug\netcoreapp3.1\WordSynonims.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\lab\WordSynonims\obj\Debug\netcoreapp3.1\WordSynonims.genruntimeconfig.cache
