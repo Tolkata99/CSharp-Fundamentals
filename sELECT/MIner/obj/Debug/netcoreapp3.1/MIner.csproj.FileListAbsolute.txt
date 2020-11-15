@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\bin\Debug\netcoreapp3.1\MIner.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\bin\Debug\netcoreapp3.1\MIner.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\bin\Debug\netcoreapp3.1\MIner.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\bin\Debug\netcoreapp3.1\MIner.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\bin\Debug\netcoreapp3.1\MIner.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\bin\Debug\netcoreapp3.1\MIner.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\obj\Debug\netcoreapp3.1\MIner.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\obj\Debug\netcoreapp3.1\MIner.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\obj\Debug\netcoreapp3.1\MIner.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\obj\Debug\netcoreapp3.1\MIner.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\obj\Debug\netcoreapp3.1\MIner.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\obj\Debug\netcoreapp3.1\MIner.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\MIner\obj\Debug\netcoreapp3.1\MIner.genruntimeconfig.cache
