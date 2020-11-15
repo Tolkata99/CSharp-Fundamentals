@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\bin\Debug\netcoreapp3.1\sELECT.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\bin\Debug\netcoreapp3.1\sELECT.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\bin\Debug\netcoreapp3.1\sELECT.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\bin\Debug\netcoreapp3.1\sELECT.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\bin\Debug\netcoreapp3.1\sELECT.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\bin\Debug\netcoreapp3.1\sELECT.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\obj\Debug\netcoreapp3.1\sELECT.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\obj\Debug\netcoreapp3.1\sELECT.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\obj\Debug\netcoreapp3.1\sELECT.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\obj\Debug\netcoreapp3.1\sELECT.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\obj\Debug\netcoreapp3.1\sELECT.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\obj\Debug\netcoreapp3.1\sELECT.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\sELECT\obj\Debug\netcoreapp3.1\sELECT.genruntimeconfig.cache
