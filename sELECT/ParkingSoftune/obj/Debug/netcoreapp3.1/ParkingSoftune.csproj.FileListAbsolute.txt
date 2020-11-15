@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\bin\Debug\netcoreapp3.1\ParkingSoftune.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\bin\Debug\netcoreapp3.1\ParkingSoftune.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\bin\Debug\netcoreapp3.1\ParkingSoftune.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\bin\Debug\netcoreapp3.1\ParkingSoftune.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\bin\Debug\netcoreapp3.1\ParkingSoftune.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\bin\Debug\netcoreapp3.1\ParkingSoftune.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\obj\Debug\netcoreapp3.1\ParkingSoftune.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\obj\Debug\netcoreapp3.1\ParkingSoftune.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\obj\Debug\netcoreapp3.1\ParkingSoftune.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\obj\Debug\netcoreapp3.1\ParkingSoftune.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\obj\Debug\netcoreapp3.1\ParkingSoftune.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\obj\Debug\netcoreapp3.1\ParkingSoftune.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\sELECT\ParkingSoftune\obj\Debug\netcoreapp3.1\ParkingSoftune.genruntimeconfig.cache
