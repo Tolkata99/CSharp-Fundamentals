@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.genruntimeconfig.cache

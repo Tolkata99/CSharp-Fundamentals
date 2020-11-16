@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\bin\Debug\netcoreapp3.1\Type.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\bin\Debug\netcoreapp3.1\Type.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\bin\Debug\netcoreapp3.1\Type.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\bin\Debug\netcoreapp3.1\Type.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\bin\Debug\netcoreapp3.1\Type.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\bin\Debug\netcoreapp3.1\Type.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\obj\Debug\netcoreapp3.1\Type.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\obj\Debug\netcoreapp3.1\Type.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\obj\Debug\netcoreapp3.1\Type.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\obj\Debug\netcoreapp3.1\Type.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\obj\Debug\netcoreapp3.1\Type.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\obj\Debug\netcoreapp3.1\Type.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Type\obj\Debug\netcoreapp3.1\Type.genruntimeconfig.cache

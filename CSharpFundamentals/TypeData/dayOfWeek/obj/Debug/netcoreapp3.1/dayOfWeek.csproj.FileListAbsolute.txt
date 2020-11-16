@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\bin\Debug\netcoreapp3.1\dayOfWeek.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\bin\Debug\netcoreapp3.1\dayOfWeek.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\bin\Debug\netcoreapp3.1\dayOfWeek.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\bin\Debug\netcoreapp3.1\dayOfWeek.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\bin\Debug\netcoreapp3.1\dayOfWeek.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\bin\Debug\netcoreapp3.1\dayOfWeek.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\obj\Debug\netcoreapp3.1\dayOfWeek.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\obj\Debug\netcoreapp3.1\dayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\obj\Debug\netcoreapp3.1\dayOfWeek.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\obj\Debug\netcoreapp3.1\dayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\obj\Debug\netcoreapp3.1\dayOfWeek.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\obj\Debug\netcoreapp3.1\dayOfWeek.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\dayOfWeek\obj\Debug\netcoreapp3.1\dayOfWeek.genruntimeconfig.cache

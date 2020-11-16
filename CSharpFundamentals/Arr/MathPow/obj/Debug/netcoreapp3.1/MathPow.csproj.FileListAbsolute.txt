@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\bin\Debug\netcoreapp3.1\MathPow.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\bin\Debug\netcoreapp3.1\MathPow.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\bin\Debug\netcoreapp3.1\MathPow.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\bin\Debug\netcoreapp3.1\MathPow.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\bin\Debug\netcoreapp3.1\MathPow.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\bin\Debug\netcoreapp3.1\MathPow.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\obj\Debug\netcoreapp3.1\MathPow.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\obj\Debug\netcoreapp3.1\MathPow.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\obj\Debug\netcoreapp3.1\MathPow.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\obj\Debug\netcoreapp3.1\MathPow.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\obj\Debug\netcoreapp3.1\MathPow.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\obj\Debug\netcoreapp3.1\MathPow.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MathPow\obj\Debug\netcoreapp3.1\MathPow.genruntimeconfig.cache

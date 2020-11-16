@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\bin\Debug\netcoreapp3.1\newView.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\bin\Debug\netcoreapp3.1\newView.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\bin\Debug\netcoreapp3.1\newView.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\bin\Debug\netcoreapp3.1\newView.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\bin\Debug\netcoreapp3.1\newView.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\bin\Debug\netcoreapp3.1\newView.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\obj\Debug\netcoreapp3.1\newView.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\obj\Debug\netcoreapp3.1\newView.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\obj\Debug\netcoreapp3.1\newView.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\obj\Debug\netcoreapp3.1\newView.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\obj\Debug\netcoreapp3.1\newView.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\obj\Debug\netcoreapp3.1\newView.genruntimeconfig.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\newView\obj\Debug\netcoreapp3.1\newView.csprojAssemblyReference.cache

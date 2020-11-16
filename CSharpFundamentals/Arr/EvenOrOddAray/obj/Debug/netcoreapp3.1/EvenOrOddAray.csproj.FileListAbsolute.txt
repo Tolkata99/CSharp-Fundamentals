@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\bin\Debug\netcoreapp3.1\EvenOrOddAray.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\bin\Debug\netcoreapp3.1\EvenOrOddAray.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\bin\Debug\netcoreapp3.1\EvenOrOddAray.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\bin\Debug\netcoreapp3.1\EvenOrOddAray.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\bin\Debug\netcoreapp3.1\EvenOrOddAray.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\bin\Debug\netcoreapp3.1\EvenOrOddAray.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\obj\Debug\netcoreapp3.1\EvenOrOddAray.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\obj\Debug\netcoreapp3.1\EvenOrOddAray.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\obj\Debug\netcoreapp3.1\EvenOrOddAray.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\obj\Debug\netcoreapp3.1\EvenOrOddAray.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\obj\Debug\netcoreapp3.1\EvenOrOddAray.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\obj\Debug\netcoreapp3.1\EvenOrOddAray.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\EvenOrOddAray\obj\Debug\netcoreapp3.1\EvenOrOddAray.genruntimeconfig.cache

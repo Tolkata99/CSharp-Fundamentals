@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\05.Triangle\bin\Debug\netcoreapp3.1\05.Triangle.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\05.Triangle\bin\Debug\netcoreapp3.1\05.Triangle.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\05.Triangle\bin\Debug\netcoreapp3.1\05.Triangle.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\05.Triangle\bin\Debug\netcoreapp3.1\05.Triangle.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\05.Triangle\bin\Debug\netcoreapp3.1\05.Triangle.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\05.Triangle\bin\Debug\netcoreapp3.1\05.Triangle.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\05.Triangle\obj\Debug\netcoreapp3.1\05.Triangle.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\05.Triangle\obj\Debug\netcoreapp3.1\05.Triangle.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\05.Triangle\obj\Debug\netcoreapp3.1\05.Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\05.Triangle\obj\Debug\netcoreapp3.1\05.Triangle.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\05.Triangle\obj\Debug\netcoreapp3.1\05.Triangle.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\05.Triangle\obj\Debug\netcoreapp3.1\05.Triangle.genruntimeconfig.cache

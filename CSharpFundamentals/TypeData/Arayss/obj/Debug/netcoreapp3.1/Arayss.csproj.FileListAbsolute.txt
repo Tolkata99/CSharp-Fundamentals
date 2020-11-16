@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\Arayss\bin\Debug\netcoreapp3.1\Arayss.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\Arayss\bin\Debug\netcoreapp3.1\Arayss.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\Arayss\bin\Debug\netcoreapp3.1\Arayss.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\Arayss\bin\Debug\netcoreapp3.1\Arayss.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\Arayss\bin\Debug\netcoreapp3.1\Arayss.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\Arayss\bin\Debug\netcoreapp3.1\Arayss.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\Arayss\obj\Debug\netcoreapp3.1\Arayss.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\Arayss\obj\Debug\netcoreapp3.1\Arayss.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\Arayss\obj\Debug\netcoreapp3.1\Arayss.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\Arayss\obj\Debug\netcoreapp3.1\Arayss.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\Arayss\obj\Debug\netcoreapp3.1\Arayss.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\TypeData\Arayss\obj\Debug\netcoreapp3.1\Arayss.genruntimeconfig.cache

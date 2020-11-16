@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Area\bin\Debug\netcoreapp3.1\Area.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Area\bin\Debug\netcoreapp3.1\Area.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Area\bin\Debug\netcoreapp3.1\Area.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Area\bin\Debug\netcoreapp3.1\Area.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Area\obj\Debug\netcoreapp3.1\Area.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Area\obj\Debug\netcoreapp3.1\Area.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Area\obj\Debug\netcoreapp3.1\Area.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\Area\obj\Debug\netcoreapp3.1\Area.genruntimeconfig.cache

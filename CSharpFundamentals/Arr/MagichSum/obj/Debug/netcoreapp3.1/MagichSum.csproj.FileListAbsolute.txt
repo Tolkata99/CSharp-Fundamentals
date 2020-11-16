@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MagichSum\bin\Debug\netcoreapp3.1\MagichSum.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MagichSum\bin\Debug\netcoreapp3.1\MagichSum.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MagichSum\bin\Debug\netcoreapp3.1\MagichSum.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MagichSum\bin\Debug\netcoreapp3.1\MagichSum.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MagichSum\bin\Debug\netcoreapp3.1\MagichSum.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MagichSum\bin\Debug\netcoreapp3.1\MagichSum.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MagichSum\obj\Debug\netcoreapp3.1\MagichSum.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MagichSum\obj\Debug\netcoreapp3.1\MagichSum.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MagichSum\obj\Debug\netcoreapp3.1\MagichSum.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MagichSum\obj\Debug\netcoreapp3.1\MagichSum.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MagichSum\obj\Debug\netcoreapp3.1\MagichSum.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\MagichSum\obj\Debug\netcoreapp3.1\MagichSum.genruntimeconfig.cache

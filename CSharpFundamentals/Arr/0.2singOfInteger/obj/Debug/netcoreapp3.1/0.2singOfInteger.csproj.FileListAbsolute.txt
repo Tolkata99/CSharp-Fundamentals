@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\0.2singOfInteger\bin\Debug\netcoreapp3.1\0.2singOfInteger.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\0.2singOfInteger\bin\Debug\netcoreapp3.1\0.2singOfInteger.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\0.2singOfInteger\bin\Debug\netcoreapp3.1\0.2singOfInteger.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\0.2singOfInteger\bin\Debug\netcoreapp3.1\0.2singOfInteger.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\0.2singOfInteger\bin\Debug\netcoreapp3.1\0.2singOfInteger.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\0.2singOfInteger\bin\Debug\netcoreapp3.1\0.2singOfInteger.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\0.2singOfInteger\obj\Debug\netcoreapp3.1\0.2singOfInteger.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\0.2singOfInteger\obj\Debug\netcoreapp3.1\0.2singOfInteger.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\0.2singOfInteger\obj\Debug\netcoreapp3.1\0.2singOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\0.2singOfInteger\obj\Debug\netcoreapp3.1\0.2singOfInteger.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\0.2singOfInteger\obj\Debug\netcoreapp3.1\0.2singOfInteger.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\0.2singOfInteger\obj\Debug\netcoreapp3.1\0.2singOfInteger.genruntimeconfig.cache

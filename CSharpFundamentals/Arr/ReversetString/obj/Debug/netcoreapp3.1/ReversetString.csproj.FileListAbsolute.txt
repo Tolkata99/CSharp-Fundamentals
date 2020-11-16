@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\bin\Debug\netcoreapp3.1\ReversetString.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\bin\Debug\netcoreapp3.1\ReversetString.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\bin\Debug\netcoreapp3.1\ReversetString.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\bin\Debug\netcoreapp3.1\ReversetString.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\bin\Debug\netcoreapp3.1\ReversetString.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\bin\Debug\netcoreapp3.1\ReversetString.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\obj\Debug\netcoreapp3.1\ReversetString.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\obj\Debug\netcoreapp3.1\ReversetString.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\obj\Debug\netcoreapp3.1\ReversetString.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\obj\Debug\netcoreapp3.1\ReversetString.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\obj\Debug\netcoreapp3.1\ReversetString.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\obj\Debug\netcoreapp3.1\ReversetString.genruntimeconfig.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ReversetString\obj\Debug\netcoreapp3.1\ReversetString.csprojAssemblyReference.cache

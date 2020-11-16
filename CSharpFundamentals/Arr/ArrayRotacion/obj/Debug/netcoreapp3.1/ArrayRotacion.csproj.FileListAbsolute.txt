@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\bin\Debug\netcoreapp3.1\ArrayRotacion.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\bin\Debug\netcoreapp3.1\ArrayRotacion.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\bin\Debug\netcoreapp3.1\ArrayRotacion.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\bin\Debug\netcoreapp3.1\ArrayRotacion.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\bin\Debug\netcoreapp3.1\ArrayRotacion.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\bin\Debug\netcoreapp3.1\ArrayRotacion.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\obj\Debug\netcoreapp3.1\ArrayRotacion.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\obj\Debug\netcoreapp3.1\ArrayRotacion.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\obj\Debug\netcoreapp3.1\ArrayRotacion.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\obj\Debug\netcoreapp3.1\ArrayRotacion.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\obj\Debug\netcoreapp3.1\ArrayRotacion.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\obj\Debug\netcoreapp3.1\ArrayRotacion.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\Arr\ArrayRotacion\obj\Debug\netcoreapp3.1\ArrayRotacion.genruntimeconfig.cache
