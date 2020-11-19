@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\SubString\bin\Debug\netcoreapp3.1\SubString.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\SubString\bin\Debug\netcoreapp3.1\SubString.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\SubString\bin\Debug\netcoreapp3.1\SubString.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\SubString\bin\Debug\netcoreapp3.1\SubString.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\SubString\bin\Debug\netcoreapp3.1\SubString.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\SubString\bin\Debug\netcoreapp3.1\SubString.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\SubString\obj\Debug\netcoreapp3.1\SubString.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\SubString\obj\Debug\netcoreapp3.1\SubString.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\SubString\obj\Debug\netcoreapp3.1\SubString.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\SubString\obj\Debug\netcoreapp3.1\SubString.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\SubString\obj\Debug\netcoreapp3.1\SubString.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\SubString\obj\Debug\netcoreapp3.1\SubString.genruntimeconfig.cache
