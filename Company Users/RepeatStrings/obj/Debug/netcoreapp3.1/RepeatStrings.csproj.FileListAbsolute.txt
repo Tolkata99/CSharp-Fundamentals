@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\RepeatStrings\bin\Debug\netcoreapp3.1\RepeatStrings.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\RepeatStrings\bin\Debug\netcoreapp3.1\RepeatStrings.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\RepeatStrings\bin\Debug\netcoreapp3.1\RepeatStrings.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\RepeatStrings\bin\Debug\netcoreapp3.1\RepeatStrings.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\RepeatStrings\bin\Debug\netcoreapp3.1\RepeatStrings.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\RepeatStrings\bin\Debug\netcoreapp3.1\RepeatStrings.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Company Users\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.genruntimeconfig.cache
