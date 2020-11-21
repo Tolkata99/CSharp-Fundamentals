@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\stringLetter\07CharArray\bin\Debug\netcoreapp3.1\07CharArray.exe
+C:\Users\Acer Nitro\source\repos\stringLetter\07CharArray\bin\Debug\netcoreapp3.1\07CharArray.deps.json
+C:\Users\Acer Nitro\source\repos\stringLetter\07CharArray\bin\Debug\netcoreapp3.1\07CharArray.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\stringLetter\07CharArray\bin\Debug\netcoreapp3.1\07CharArray.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\stringLetter\07CharArray\bin\Debug\netcoreapp3.1\07CharArray.dll
+C:\Users\Acer Nitro\source\repos\stringLetter\07CharArray\bin\Debug\netcoreapp3.1\07CharArray.pdb
+C:\Users\Acer Nitro\source\repos\stringLetter\07CharArray\obj\Debug\netcoreapp3.1\07CharArray.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\07CharArray\obj\Debug\netcoreapp3.1\07CharArray.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\stringLetter\07CharArray\obj\Debug\netcoreapp3.1\07CharArray.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\07CharArray\obj\Debug\netcoreapp3.1\07CharArray.dll
+C:\Users\Acer Nitro\source\repos\stringLetter\07CharArray\obj\Debug\netcoreapp3.1\07CharArray.pdb
+C:\Users\Acer Nitro\source\repos\stringLetter\07CharArray\obj\Debug\netcoreapp3.1\07CharArray.genruntimeconfig.cache
