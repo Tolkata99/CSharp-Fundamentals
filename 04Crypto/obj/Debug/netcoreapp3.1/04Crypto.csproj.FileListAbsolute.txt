@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\stringLetter\04Crypto\bin\Debug\netcoreapp3.1\04Crypto.exe
+C:\Users\Acer Nitro\source\repos\stringLetter\04Crypto\bin\Debug\netcoreapp3.1\04Crypto.deps.json
+C:\Users\Acer Nitro\source\repos\stringLetter\04Crypto\bin\Debug\netcoreapp3.1\04Crypto.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\stringLetter\04Crypto\bin\Debug\netcoreapp3.1\04Crypto.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\stringLetter\04Crypto\bin\Debug\netcoreapp3.1\04Crypto.dll
+C:\Users\Acer Nitro\source\repos\stringLetter\04Crypto\bin\Debug\netcoreapp3.1\04Crypto.pdb
+C:\Users\Acer Nitro\source\repos\stringLetter\04Crypto\obj\Debug\netcoreapp3.1\04Crypto.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\04Crypto\obj\Debug\netcoreapp3.1\04Crypto.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\stringLetter\04Crypto\obj\Debug\netcoreapp3.1\04Crypto.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\04Crypto\obj\Debug\netcoreapp3.1\04Crypto.dll
+C:\Users\Acer Nitro\source\repos\stringLetter\04Crypto\obj\Debug\netcoreapp3.1\04Crypto.pdb
+C:\Users\Acer Nitro\source\repos\stringLetter\04Crypto\obj\Debug\netcoreapp3.1\04Crypto.genruntimeconfig.cache
