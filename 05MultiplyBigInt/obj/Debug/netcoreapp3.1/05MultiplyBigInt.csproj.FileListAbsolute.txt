@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\bin\Debug\netcoreapp3.1\05MultiplyBigInt.exe
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\bin\Debug\netcoreapp3.1\05MultiplyBigInt.deps.json
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\bin\Debug\netcoreapp3.1\05MultiplyBigInt.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\bin\Debug\netcoreapp3.1\05MultiplyBigInt.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\bin\Debug\netcoreapp3.1\05MultiplyBigInt.dll
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\bin\Debug\netcoreapp3.1\05MultiplyBigInt.pdb
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\obj\Debug\netcoreapp3.1\05MultiplyBigInt.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\obj\Debug\netcoreapp3.1\05MultiplyBigInt.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\obj\Debug\netcoreapp3.1\05MultiplyBigInt.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\obj\Debug\netcoreapp3.1\05MultiplyBigInt.dll
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\obj\Debug\netcoreapp3.1\05MultiplyBigInt.pdb
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\obj\Debug\netcoreapp3.1\05MultiplyBigInt.genruntimeconfig.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\05MultiplyBigInt\obj\Debug\netcoreapp3.1\05MultiplyBigInt.csprojAssemblyReference.cache
