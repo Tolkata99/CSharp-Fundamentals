@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\bin\Debug\netcoreapp3.1\01ValidUsernames.exe
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\bin\Debug\netcoreapp3.1\01ValidUsernames.deps.json
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\bin\Debug\netcoreapp3.1\01ValidUsernames.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\bin\Debug\netcoreapp3.1\01ValidUsernames.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\bin\Debug\netcoreapp3.1\01ValidUsernames.dll
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\bin\Debug\netcoreapp3.1\01ValidUsernames.pdb
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.dll
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.pdb
+C:\Users\Acer Nitro\source\repos\stringLetter\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.genruntimeconfig.cache
