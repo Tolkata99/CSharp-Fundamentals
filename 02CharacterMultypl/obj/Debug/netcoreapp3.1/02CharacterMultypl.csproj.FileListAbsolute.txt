@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\bin\Debug\netcoreapp3.1\02CharacterMultypl.exe
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\bin\Debug\netcoreapp3.1\02CharacterMultypl.deps.json
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\bin\Debug\netcoreapp3.1\02CharacterMultypl.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\bin\Debug\netcoreapp3.1\02CharacterMultypl.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\bin\Debug\netcoreapp3.1\02CharacterMultypl.dll
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\bin\Debug\netcoreapp3.1\02CharacterMultypl.pdb
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\obj\Debug\netcoreapp3.1\02CharacterMultypl.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\obj\Debug\netcoreapp3.1\02CharacterMultypl.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\obj\Debug\netcoreapp3.1\02CharacterMultypl.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\obj\Debug\netcoreapp3.1\02CharacterMultypl.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\obj\Debug\netcoreapp3.1\02CharacterMultypl.dll
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\obj\Debug\netcoreapp3.1\02CharacterMultypl.pdb
+C:\Users\Acer Nitro\source\repos\stringLetter\02CharacterMultypl\obj\Debug\netcoreapp3.1\02CharacterMultypl.genruntimeconfig.cache
