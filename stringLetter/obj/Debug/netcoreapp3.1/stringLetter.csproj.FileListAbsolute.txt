@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\bin\Debug\netcoreapp3.1\stringLetter.exe
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\bin\Debug\netcoreapp3.1\stringLetter.deps.json
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\bin\Debug\netcoreapp3.1\stringLetter.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\bin\Debug\netcoreapp3.1\stringLetter.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\bin\Debug\netcoreapp3.1\stringLetter.dll
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\bin\Debug\netcoreapp3.1\stringLetter.pdb
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\obj\Debug\netcoreapp3.1\stringLetter.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\obj\Debug\netcoreapp3.1\stringLetter.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\obj\Debug\netcoreapp3.1\stringLetter.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\obj\Debug\netcoreapp3.1\stringLetter.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\obj\Debug\netcoreapp3.1\stringLetter.dll
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\obj\Debug\netcoreapp3.1\stringLetter.pdb
+C:\Users\Acer Nitro\source\repos\stringLetter\stringLetter\obj\Debug\netcoreapp3.1\stringLetter.genruntimeconfig.cache
