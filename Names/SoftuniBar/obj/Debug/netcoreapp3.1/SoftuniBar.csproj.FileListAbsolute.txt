@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\bin\Debug\netcoreapp3.1\SoftuniBar.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\bin\Debug\netcoreapp3.1\SoftuniBar.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\bin\Debug\netcoreapp3.1\SoftuniBar.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\bin\Debug\netcoreapp3.1\SoftuniBar.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\bin\Debug\netcoreapp3.1\SoftuniBar.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\bin\Debug\netcoreapp3.1\SoftuniBar.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\obj\Debug\netcoreapp3.1\SoftuniBar.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\obj\Debug\netcoreapp3.1\SoftuniBar.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\obj\Debug\netcoreapp3.1\SoftuniBar.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\obj\Debug\netcoreapp3.1\SoftuniBar.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\obj\Debug\netcoreapp3.1\SoftuniBar.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\obj\Debug\netcoreapp3.1\SoftuniBar.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\SoftuniBar\obj\Debug\netcoreapp3.1\SoftuniBar.genruntimeconfig.cache
