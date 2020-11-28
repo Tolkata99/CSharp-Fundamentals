@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\NamesTwo\bin\Debug\netcoreapp3.1\NamesTwo.exe
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\NamesTwo\bin\Debug\netcoreapp3.1\NamesTwo.deps.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\NamesTwo\bin\Debug\netcoreapp3.1\NamesTwo.runtimeconfig.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\NamesTwo\bin\Debug\netcoreapp3.1\NamesTwo.runtimeconfig.dev.json
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\NamesTwo\bin\Debug\netcoreapp3.1\NamesTwo.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\NamesTwo\bin\Debug\netcoreapp3.1\NamesTwo.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\NamesTwo\obj\Debug\netcoreapp3.1\NamesTwo.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\NamesTwo\obj\Debug\netcoreapp3.1\NamesTwo.AssemblyInfo.cs
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\NamesTwo\obj\Debug\netcoreapp3.1\NamesTwo.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\NamesTwo\obj\Debug\netcoreapp3.1\NamesTwo.dll
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\NamesTwo\obj\Debug\netcoreapp3.1\NamesTwo.pdb
+C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\NamesTwo\obj\Debug\netcoreapp3.1\NamesTwo.genruntimeconfig.cache
