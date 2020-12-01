@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\bin\Debug\netcoreapp3.1\TextProcesingMoreExercise.exe
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\bin\Debug\netcoreapp3.1\TextProcesingMoreExercise.deps.json
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\bin\Debug\netcoreapp3.1\TextProcesingMoreExercise.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\bin\Debug\netcoreapp3.1\TextProcesingMoreExercise.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\bin\Debug\netcoreapp3.1\TextProcesingMoreExercise.dll
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\bin\Debug\netcoreapp3.1\TextProcesingMoreExercise.pdb
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\obj\Debug\netcoreapp3.1\TextProcesingMoreExercise.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\obj\Debug\netcoreapp3.1\TextProcesingMoreExercise.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\obj\Debug\netcoreapp3.1\TextProcesingMoreExercise.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\obj\Debug\netcoreapp3.1\TextProcesingMoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\obj\Debug\netcoreapp3.1\TextProcesingMoreExercise.dll
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\obj\Debug\netcoreapp3.1\TextProcesingMoreExercise.pdb
+C:\Users\Acer Nitro\source\repos\TextProcesingMoreExercise\TextProcesingMoreExercise\obj\Debug\netcoreapp3.1\TextProcesingMoreExercise.genruntimeconfig.cache
