@@ -1,4 +1,0 @@
-C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\DemonGame\obj\Debug\netcoreapp3.1\DemonGame.csprojAssemblyReference.cache
-C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\DemonGame\obj\Debug\netcoreapp3.1\DemonGame.AssemblyInfoInputs.cache
-C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\DemonGame\obj\Debug\netcoreapp3.1\DemonGame.AssemblyInfo.cs
-C:\Users\Acer Nitro\Documents\GitHub\NewFundamentalsLast\Names\DemonGame\obj\Debug\netcoreapp3.1\DemonGame.csproj.CoreCompileInputs.cache
